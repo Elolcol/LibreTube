@@ -221,6 +221,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/refresh_button"
+            style="@style/Widget.Material3Expressive.Button"
             android:layout_width="150dp"
             android:layout_height="50dp"
             android:layout_gravity="center"
@@ -229,6 +230,7 @@
 
         <com.google.android.material.button.MaterialButton
             android:id="@+id/change_instance"
+            style="@style/Widget.Material3Expressive.Button"
             android:layout_width="150dp"
             android:layout_height="50dp"
             android:layout_gravity="center"
